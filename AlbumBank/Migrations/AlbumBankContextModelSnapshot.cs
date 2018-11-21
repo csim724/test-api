@@ -22,9 +22,7 @@ namespace AlbumBank.Migrations
 
                     b.Property<string>("AlbumTitle");
 
-                    b.Property<string>("DateUploaded");
-
-                    b.Property<string>("Genre");
+                    b.Property<string>("AlbumArtist");
 
                     b.Property<string>("ImageUrl");
 

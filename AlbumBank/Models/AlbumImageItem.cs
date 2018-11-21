@@ -9,7 +9,7 @@ namespace AlbumBank.Models
     public class AlbumImageItem
     {
         public string AlbumTitle { get; set; }
-        public string Genre { get; set; }
+        public string AlbumArtist { get; set; }
         public IFormFile Image { get; set; }
     }
 }

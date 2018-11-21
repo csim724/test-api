@@ -14,10 +14,9 @@ namespace AlbumBank.Migrations
                         .Annotation("Sqlite:Autoincrement", true),
                     AlbumTitle = table.Column<string>(nullable: true),
                     ImageUrl = table.Column<string>(nullable: true),
-                    Genre = table.Column<string>(nullable: true),
+                    AlbumArtist = table.Column<string>(nullable: true),
                     Length = table.Column<string>(nullable: true),
                     Tracks = table.Column<int>(nullable: false),
-                    DateUploaded = table.Column<string>(nullable: true)
                 },
                 constraints: table =>
                 {

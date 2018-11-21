@@ -131,12 +131,12 @@ namespace AlbumBank.Controllers
         }
 
         // GET: api/Meme/Tags
-        [Route("genre")]
+        [Route("AlbumArtist")]
         [HttpGet]
         public async Task<List<string>> GetTags()
         {
             var memes = (from m in _context.AlbumItem
-                         select m.Genre).Distinct();
+                         select m.AlbumArtist).Distinct();
 
             var returned = await memes.ToListAsync();
 
@@ -163,11 +163,10 @@ namespace AlbumBank.Controllers
 
                     AlbumItem albumItem = new AlbumItem();
                     albumItem.AlbumTitle = album.AlbumTitle;
-                    albumItem.Genre = album.Genre;
+                    albumItem.AlbumArtist = album.AlbumArtist;
 
                     System.Drawing.Image image = System.Drawing.Image.FromStream(stream);
                     albumItem.ImageUrl = cloudBlock.SnapshotQualifiedUri.AbsoluteUri;
-                    albumItem.DateUploaded = DateTime.Now.ToString();
                     _context.AlbumItem.Add(albumItem);
                     await _context.SaveChangesAsync();
 

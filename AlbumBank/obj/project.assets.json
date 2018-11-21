@@ -13118,11 +13118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chris\\Desktop\\Repos\\AlbumBank - Copy\\AlbumBank\\AlbumBank.csproj",
+      "projectUniqueName": "C:\\Users\\Chris\\Desktop\\Repos\\killme\\AlbumBank\\AlbumBank.csproj",
       "projectName": "AlbumBank",
-      "projectPath": "C:\\Users\\Chris\\Desktop\\Repos\\AlbumBank - Copy\\AlbumBank\\AlbumBank.csproj",
+      "projectPath": "C:\\Users\\Chris\\Desktop\\Repos\\killme\\AlbumBank\\AlbumBank.csproj",
       "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chris\\Desktop\\Repos\\AlbumBank - Copy\\AlbumBank\\obj\\",
+      "outputPath": "C:\\Users\\Chris\\Desktop\\Repos\\killme\\AlbumBank\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
