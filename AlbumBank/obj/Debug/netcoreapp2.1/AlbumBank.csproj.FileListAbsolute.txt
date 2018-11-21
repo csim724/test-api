@@ -1,0 +1,42 @@
+C:\Users\Chris\Desktop\AlbumBank\AlbumBank\bin\Debug\netcoreapp2.1\AlbumBank.deps.json
+C:\Users\Chris\Desktop\AlbumBank\AlbumBank\bin\Debug\netcoreapp2.1\AlbumBank.runtimeconfig.json
+C:\Users\Chris\Desktop\AlbumBank\AlbumBank\bin\Debug\netcoreapp2.1\AlbumBank.runtimeconfig.dev.json
+C:\Users\Chris\Desktop\AlbumBank\AlbumBank\bin\Debug\netcoreapp2.1\AlbumBank.dll
+C:\Users\Chris\Desktop\AlbumBank\AlbumBank\bin\Debug\netcoreapp2.1\AlbumBank.pdb
+C:\Users\Chris\Desktop\AlbumBank\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.csprojAssemblyReference.cache
+C:\Users\Chris\Desktop\AlbumBank\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\AlbumBank\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.RazorAssemblyInfo.cache
+C:\Users\Chris\Desktop\AlbumBank\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.RazorAssemblyInfo.cs
+C:\Users\Chris\Desktop\AlbumBank\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.AssemblyInfoInputs.cache
+C:\Users\Chris\Desktop\AlbumBank\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.AssemblyInfo.cs
+C:\Users\Chris\Desktop\AlbumBank\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.RazorTargetAssemblyInfo.cache
+C:\Users\Chris\Desktop\AlbumBank\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.dll
+C:\Users\Chris\Desktop\AlbumBank\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.pdb
+C:\Users\Chris\Desktop\AlbumBank - Copy\AlbumBank\bin\Debug\netcoreapp2.1\AlbumBank.deps.json
+C:\Users\Chris\Desktop\AlbumBank - Copy\AlbumBank\bin\Debug\netcoreapp2.1\AlbumBank.runtimeconfig.json
+C:\Users\Chris\Desktop\AlbumBank - Copy\AlbumBank\bin\Debug\netcoreapp2.1\AlbumBank.runtimeconfig.dev.json
+C:\Users\Chris\Desktop\AlbumBank - Copy\AlbumBank\bin\Debug\netcoreapp2.1\AlbumBank.dll
+C:\Users\Chris\Desktop\AlbumBank - Copy\AlbumBank\bin\Debug\netcoreapp2.1\AlbumBank.pdb
+C:\Users\Chris\Desktop\AlbumBank - Copy\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.csprojAssemblyReference.cache
+C:\Users\Chris\Desktop\AlbumBank - Copy\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\AlbumBank - Copy\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.RazorAssemblyInfo.cache
+C:\Users\Chris\Desktop\AlbumBank - Copy\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.RazorAssemblyInfo.cs
+C:\Users\Chris\Desktop\AlbumBank - Copy\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.AssemblyInfoInputs.cache
+C:\Users\Chris\Desktop\AlbumBank - Copy\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.AssemblyInfo.cs
+C:\Users\Chris\Desktop\AlbumBank - Copy\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.RazorTargetAssemblyInfo.cache
+C:\Users\Chris\Desktop\AlbumBank - Copy\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.dll
+C:\Users\Chris\Desktop\AlbumBank - Copy\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.pdb
+C:\Users\Chris\Desktop\Repos\AlbumBank - Copy\AlbumBank\bin\Debug\netcoreapp2.1\AlbumBank.deps.json
+C:\Users\Chris\Desktop\Repos\AlbumBank - Copy\AlbumBank\bin\Debug\netcoreapp2.1\AlbumBank.runtimeconfig.json
+C:\Users\Chris\Desktop\Repos\AlbumBank - Copy\AlbumBank\bin\Debug\netcoreapp2.1\AlbumBank.runtimeconfig.dev.json
+C:\Users\Chris\Desktop\Repos\AlbumBank - Copy\AlbumBank\bin\Debug\netcoreapp2.1\AlbumBank.dll
+C:\Users\Chris\Desktop\Repos\AlbumBank - Copy\AlbumBank\bin\Debug\netcoreapp2.1\AlbumBank.pdb
+C:\Users\Chris\Desktop\Repos\AlbumBank - Copy\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.csprojAssemblyReference.cache
+C:\Users\Chris\Desktop\Repos\AlbumBank - Copy\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\Repos\AlbumBank - Copy\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.RazorAssemblyInfo.cache
+C:\Users\Chris\Desktop\Repos\AlbumBank - Copy\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.RazorAssemblyInfo.cs
+C:\Users\Chris\Desktop\Repos\AlbumBank - Copy\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.AssemblyInfoInputs.cache
+C:\Users\Chris\Desktop\Repos\AlbumBank - Copy\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.AssemblyInfo.cs
+C:\Users\Chris\Desktop\Repos\AlbumBank - Copy\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.RazorTargetAssemblyInfo.cache
+C:\Users\Chris\Desktop\Repos\AlbumBank - Copy\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.dll
+C:\Users\Chris\Desktop\Repos\AlbumBank - Copy\AlbumBank\obj\Debug\netcoreapp2.1\AlbumBank.pdb
