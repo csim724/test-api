@@ -11,7 +11,6 @@ namespace AlbumBank.Models
         public string AlbumTitle { get; set; }
         public string ImageUrl { get; set; }
         public string AlbumArtist { get; set; }
-        public string Length { get; set; }
         public int Tracks { get; set; }
     }
 }

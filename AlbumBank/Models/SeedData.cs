@@ -26,8 +26,7 @@ namespace AlbumBank.Models
                         AlbumTitle = "Kid A",
                         ImageUrl = "https://lastfm-img2.akamaized.net/i/u/770x0/248cb85037351002251836e5f2f0d76b.jpg#248cb85037351002251836e5f2f0d76b",
                         AlbumArtist = "Radiohead",
-                        Length = "49:55",
-                        Tracks = 10,
+                        Tracks = 10
                     }
 
 
